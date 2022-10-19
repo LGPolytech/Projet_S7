@@ -1,7 +1,7 @@
 import sys
 import math
 import numpy as np
-
+ 
 from PyQt5.QtCore import Qt, QSize, QRect
 from PyQt5.QtGui import QPainter, QPen, QPixmap, QColor, QCursor
 from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QMainWindow, QPushButton, QVBoxLayout, QHBoxLayout
